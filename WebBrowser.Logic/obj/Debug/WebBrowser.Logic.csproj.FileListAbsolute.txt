@@ -1,0 +1,4 @@
+C:/Users/joshu/source/repos/WebBrowser/WebBrowser.Logic/obj/Debug/WebBrowser.Logic.csproj.AssemblyReference.cache
+C:/Users/joshu/source/repos/WebBrowser/WebBrowser.Logic/obj/Debug/WebBrowser.Logic.csproj.CoreCompileInputs.cache
+/Users/joshguiang/Desktop/PROJECTS/School Projects/WebBrowser 10/WebBrowser.Logic/obj/Debug/WebBrowser.Logic.csproj.AssemblyReference.cache
+/Users/joshguiang/Desktop/PROJECTS/School Projects/WebBrowser 10/WebBrowser.Logic/obj/Debug/WebBrowser.Logic.csproj.CoreCompileInputs.cache

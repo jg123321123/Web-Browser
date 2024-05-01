@@ -1,0 +1,11 @@
+C:\Users\joshu\source\repos\WebBrowser\WebBrowser.UI\bin\Debug\WebBrowser.UI.exe.config
+C:\Users\joshu\source\repos\WebBrowser\WebBrowser.UI\bin\Debug\WebBrowser.UI.exe
+C:\Users\joshu\source\repos\WebBrowser\WebBrowser.UI\bin\Debug\WebBrowser.UI.pdb
+C:\Users\joshu\source\repos\WebBrowser\WebBrowser.UI\obj\Debug\WebBrowser.UI.csproj.AssemblyReference.cache
+C:\Users\joshu\source\repos\WebBrowser\WebBrowser.UI\obj\Debug\WebBrowser.UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\joshu\source\repos\WebBrowser\WebBrowser.UI\obj\Debug\WebBrowser.UI.Properties.Resources.resources
+C:\Users\joshu\source\repos\WebBrowser\WebBrowser.UI\obj\Debug\WebBrowser.UI.csproj.GenerateResource.cache
+C:\Users\joshu\source\repos\WebBrowser\WebBrowser.UI\obj\Debug\WebBrowser.UI.csproj.CoreCompileInputs.cache
+C:\Users\joshu\source\repos\WebBrowser\WebBrowser.UI\obj\Debug\WebBrowser.UI.exe
+C:\Users\joshu\source\repos\WebBrowser\WebBrowser.UI\obj\Debug\WebBrowser.UI.pdb
+C:\Users\joshu\source\repos\WebBrowser\WebBrowser.UI\obj\Debug\WebBrowser.UI.MainBrowser.resources

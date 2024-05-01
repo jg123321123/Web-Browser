@@ -1,0 +1,16 @@
+C:/Users/joshu/source/repos/WebBrowser/WebBrowser.Data/bin/Debug/WebBrowser.Data.dll
+C:/Users/joshu/source/repos/WebBrowser/WebBrowser.Data/bin/Debug/WebBrowser.Data.pdb
+C:/Users/joshu/source/repos/WebBrowser/WebBrowser.Data/obj/Debug/WebBrowser.Data.csproj.AssemblyReference.cache
+C:/Users/joshu/source/repos/WebBrowser/WebBrowser.Data/obj/Debug/WebBrowser.Data.csproj.CoreCompileInputs.cache
+C:/Users/joshu/source/repos/WebBrowser/WebBrowser.Data/obj/Debug/WebBrowser.Data.dll
+C:/Users/joshu/source/repos/WebBrowser/WebBrowser.Data/obj/Debug/WebBrowser.Data.pdb
+C:/Users/joshu/source/repos/WebBrowser/WebBrowser.Data/bin/Debug/WebBrowserDB.mdf
+C:/Users/joshu/source/repos/WebBrowser/WebBrowser.Data/bin/Debug/WebBrowserDB_log.ldf
+/Users/joshguiang/Desktop/PROJECTS/School Projects/WebBrowser 10/WebBrowser.Data/bin/Debug/WebBrowserDB.mdf
+/Users/joshguiang/Desktop/PROJECTS/School Projects/WebBrowser 10/WebBrowser.Data/bin/Debug/WebBrowserDB_log.ldf
+/Users/joshguiang/Desktop/PROJECTS/School Projects/WebBrowser 10/WebBrowser.Data/bin/Debug/WebBrowser.Data.dll
+/Users/joshguiang/Desktop/PROJECTS/School Projects/WebBrowser 10/WebBrowser.Data/bin/Debug/WebBrowser.Data.pdb
+/Users/joshguiang/Desktop/PROJECTS/School Projects/WebBrowser 10/WebBrowser.Data/obj/Debug/WebBrowser.Data.csproj.AssemblyReference.cache
+/Users/joshguiang/Desktop/PROJECTS/School Projects/WebBrowser 10/WebBrowser.Data/obj/Debug/WebBrowser.Data.csproj.CoreCompileInputs.cache
+/Users/joshguiang/Desktop/PROJECTS/School Projects/WebBrowser 10/WebBrowser.Data/obj/Debug/WebBrowser.Data.dll
+/Users/joshguiang/Desktop/PROJECTS/School Projects/WebBrowser 10/WebBrowser.Data/obj/Debug/WebBrowser.Data.pdb
